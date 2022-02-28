@@ -1,3 +1,5 @@
+# this is an automation test on the amazon 
+# we are going to explore the selenium framework with python 
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
